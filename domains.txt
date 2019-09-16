@@ -44,3 +44,24 @@ dns.adguard.com
 
 ## Cisco OpenDNS
 doh.opendns.com
+
+
+## Other
+dns.api.globus.org
+dns.api.preview.globus.org
+dns.api.integration.globuscs.info
+dns.api.sandbox.globuscs.info
+dns.api.staging.globuscs.info
+dns.api.test.globuscs.info
+
+dns.api.rackspacecloud.com
+dns.beta.gandi.net
+dns.cloudfiction.eu
+dns.islandnet.com
+dns.onp.cloud
+dns.tuna.tsinghua.edu.cn
+
+dns.eu-frankfurt-1.oraclecloud.com
+dns.uk-london-1.oraclecloud.com
+dns.us-ashburn-1.oraclecloud.com
+dns.us-phoenix-1.oraclecloud.com
