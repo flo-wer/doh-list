@@ -3,30 +3,37 @@
 # Updated: 2019-09-16T19:30:00Z
 # More info: https://github.com/flo-wer/doh-list/
 
-# Cloudflare
+## Cloudflare
+# *.cloudflare-dns.com
 2606:4700:4700::1001
 2606:4700:4700::1111
 2606:4700::6810:f8f9
 2606:4700::6810:f9f9
 
+# mozilla.cloudflare-dns.com
 2606:4700::6810:6f19
 2606:4700::6810:7019
 
+# dns64.cloudflare-dns.com
 2606:4700:4700::64
 2606:4700:4700::6400
 
-# Google Public DNS
+
+## Google Public DNS
 2001:4860:4860::8844
 2001:4860:4860::8888
 
-# Quad9
+
+## Quad9
 2620:fe::9
 2620:fe::fe
 
-# CleanBrowsing
+
+## CleanBrowsing
 2a0d:2a00:1::
 2a0d:2a00:2::
 
-# Digitale Gesellschaft Schweiz
+
+## Digitale Gesellschaft Schweiz
 2a05:fc84::42
 2a05:fc84::43

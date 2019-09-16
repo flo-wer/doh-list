@@ -3,7 +3,7 @@
 # Updated: 2019-09-16T19:30:00Z
 # More info: https://github.com/flo-wer/doh-list/
 
-# Cloudflare
+## Cloudflare
 cloudflare-dns.com
 # *.cloudflare-dns.com
 one.one.one.one
@@ -12,14 +12,18 @@ mozilla.cloudflare-dns.com
 
 dns64.cloudflare-dns.com
 
-# Google Public DNS
+
+## Google Public DNS
 dns.google.com
 
-# Quad9
+
+## Quad9
 dns.quad9.net
 
-# CleanBrowsing
+
+## CleanBrowsing
 doh.cleanbrowsing.org
 
-# Digitale Gesellschaft Schweiz
+
+## Digitale Gesellschaft Schweiz
 dns.digitale-gesellschaft.ch
