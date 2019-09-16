@@ -5,6 +5,12 @@
 
 # Cloudflare
 cloudflare-dns.com
+# *.cloudflare-dns.com
+one.one.one.one
+
+mozilla.cloudflare-dns.com
+
+dns64.cloudflare-dns.com
 
 # Google Public DNS
 dns.google.com
