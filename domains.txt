@@ -1,0 +1,4 @@
+# List of DNS over HTTPS Servers - Domains
+# License: MIT
+# Updated: 2019-09-16T19:30:00Z
+# More info: https://github.com/flo-wer/doh-list/
