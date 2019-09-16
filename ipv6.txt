@@ -33,10 +33,22 @@
 # dns9.quad9.net
 2620:fe::9
 2620:fe::fe
+2620:fe::fe:9
 
 # dns10.quad9.net
 2620:fe::10
 2620:fe::fe:10
+
+2620:fe::11
+2620:fe::12
+2620:fe::13
+2620:fe::14
+2620:fe::15
+2620:fe::fe:11
+2620:fe::fe:12
+2620:fe::fe:13
+2620:fe::fe:14
+2620:fe::fe:15
 
 
 ## CleanBrowsing
