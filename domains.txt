@@ -2,3 +2,18 @@
 # License: MIT
 # Updated: 2019-09-16T19:30:00Z
 # More info: https://github.com/flo-wer/doh-list/
+
+# Cloudflare
+cloudflare-dns.com
+
+# Google Public DNS
+dns.google.com
+
+# Quad9
+dns.quad9.net
+
+# CleanBrowsing
+doh.cleanbrowsing.org
+
+# Digitale Gesellschaft Schweiz
+dns.digitale-gesellschaft.ch
