@@ -15,10 +15,17 @@ dns64.cloudflare-dns.com
 
 ## Google Public DNS
 dns.google.com
+# *.dns.google.com
+dns.google
+8888.google
+
+dns64.dns.google
 
 
 ## Quad9
 dns.quad9.net
+dns9.quad9.net
+dns10.quad9.net
 
 
 ## CleanBrowsing
@@ -27,3 +34,5 @@ doh.cleanbrowsing.org
 
 ## Digitale Gesellschaft Schweiz
 dns.digitale-gesellschaft.ch
+dns1.digitale-gesellschaft.ch
+dns2.digitale-gesellschaft.ch

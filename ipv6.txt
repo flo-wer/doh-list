@@ -20,13 +20,23 @@
 
 
 ## Google Public DNS
+# *.dns.google.com
 2001:4860:4860::8844
 2001:4860:4860::8888
 
+# dns64.dns.google
+2001:4860:4860::64
+2001:4860:4860::6464
+
 
 ## Quad9
+# dns9.quad9.net
 2620:fe::9
 2620:fe::fe
+
+# dns10.quad9.net
+2620:fe::10
+2620:fe::fe:10
 
 
 ## CleanBrowsing
