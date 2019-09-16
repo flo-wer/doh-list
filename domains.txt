@@ -36,3 +36,11 @@ doh.cleanbrowsing.org
 dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
 dns2.digitale-gesellschaft.ch
+
+
+## AdGuard
+dns.adguard.com
+
+
+## Cisco OpenDNS
+doh.opendns.com

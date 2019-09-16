@@ -42,3 +42,14 @@
 ## Digitale Gesellschaft Schweiz
 185.95.218.42
 185.95.218.43
+
+
+## AdGuard
+# dns.adguard.com
+176.103.130.130
+176.103.130.131
+
+
+## Cisco OpenDNS
+# doh.opendns.com
+146.112.41.2

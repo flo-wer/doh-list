@@ -47,3 +47,11 @@
 ## Digitale Gesellschaft Schweiz
 2a05:fc84::42
 2a05:fc84::43
+
+
+## AdGuard
+
+
+## Cisco OpenDNS
+# doh.opendns.com
+2620:119:fc::2
