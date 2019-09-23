@@ -1,7 +1,11 @@
 # List of DNS over HTTPS Servers - Domains
 # License: MIT
-# Updated: 2019-09-16T21:30:00Z
+# Updated: 2019-09-23T08:00:00Z
 # More info: https://github.com/flo-wer/doh-list/
+
+## Canary
+use-application-dns.net
+
 
 ## Cloudflare
 cloudflare-dns.com
