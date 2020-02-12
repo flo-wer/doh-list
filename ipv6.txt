@@ -1,6 +1,6 @@
 # List of DNS over HTTPS Servers - IPv6
 # License: MIT
-# Updated: 2019-09-16T21:30:00Z
+# Updated: 2020-02-12T04:00:00Z
 # More info: https://github.com/flo-wer/doh-list/
 
 ## Cloudflare
@@ -49,6 +49,12 @@
 2620:fe::fe:13
 2620:fe::fe:14
 2620:fe::fe:15
+
+
+## NextDNS.io
+# dns.nextdns.io
+2a07:a8c0::
+2a07:a8c1::
 
 
 ## CleanBrowsing

@@ -1,6 +1,6 @@
 # List of DNS over HTTPS Servers - IPv4
 # License: MIT
-# Updated: 2019-09-16T21:30:00Z
+# Updated: 2020-02-12T04:00:00Z
 # More info: https://github.com/flo-wer/doh-list/
 
 ## Cloudflare
@@ -44,6 +44,12 @@
 149.112.112.13
 149.112.112.14
 149.112.112.15
+
+
+## NextDNS.io
+# dns.nextdns.io
+45.90.28.0
+45.90.30.0
 
 
 ## CleanBrowsing

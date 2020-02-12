@@ -1,6 +1,6 @@
 # List of DNS over HTTPS Servers - Domains
 # License: MIT
-# Updated: 2019-09-23T08:00:00Z
+# Updated: 2020-02-12T04:00:00Z
 # More info: https://github.com/flo-wer/doh-list/
 
 ## Canary
@@ -9,7 +9,7 @@ use-application-dns.net
 
 ## Cloudflare
 cloudflare-dns.com
-# *.cloudflare-dns.com
+*.cloudflare-dns.com
 one.one.one.one
 
 mozilla.cloudflare-dns.com
@@ -19,7 +19,7 @@ dns64.cloudflare-dns.com
 
 ## Google Public DNS
 dns.google.com
-# *.dns.google.com
+*.dns.google.com
 dns.google
 8888.google
 
@@ -30,6 +30,17 @@ dns64.dns.google
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
+
+
+## NextDNS.io
+dns.nextdns.io
+*.dns.nextdns.io
+dns1.nextdns.io
+*.dns1.nextdns.io
+dns2.nextdns.io
+*.dns2.nextdns.io
+
+trr.dns.nextdns.io
 
 
 ## CleanBrowsing
