@@ -10,9 +10,27 @@ use-application-dns.net
 ## Cloudflare
 cloudflare-dns.com
 *.cloudflare-dns.com
-one.one.one.one
 
+one.one.one.one
+1dot1dot1dot1.cloudflare-dns.com
+1001.cloudflare-dns.com
+1111.cloudflare-dns.com
+
+family.cloudflare-dns.com
+*.family.cloudflare-dns.com
+security.cloudflare-dns.com
+*.security.cloudflare-dns.com
+
+azure.cloudflare-dns.com
+*.azure.cloudflare-dns.com
+chrome.cloudflare-dns.com
+*.chrome.cloudflare-dns.com
 mozilla.cloudflare-dns.com
+*.mozilla.cloudflare-dns.com
+opera.cloudflare-dns.com
+*.opera.cloudflare-dns.com
+tor.cloudflare-dns.com
+*.tor.cloudflare-dns.com
 
 dns64.cloudflare-dns.com
 

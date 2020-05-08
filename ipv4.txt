@@ -4,7 +4,7 @@
 # More info: https://github.com/flo-wer/doh-list/
 
 ## Cloudflare
-# *.cloudflare-dns.com
+# cloudflare-dns.com, *.cloudflare-dns.com, mozilla.cloudflare-dns.com
 1.0.0.1
 1.1.1.1
 104.16.248.249
@@ -13,9 +13,40 @@
 162.159.46.1
 162.159.132.53
 
-# mozilla.cloudflare-dns.com
-104.16.111.25
-104.16.112.25
+# family.cloudflare-dns.com
+1.0.0.3
+1.1.1.3
+104.18.26.128
+104.18.27.128
+
+# security.cloudflare-dns.com
+1.0.0.2
+1.1.1.2
+104.18.2.55
+104.18.3.55
+
+# azure.cloudflare-dns.com
+104.19.215.50
+104.19.216.50
+
+# chrome.cloudflare-dns.com
+104.18.26.211
+104.18.27.211
+
+# *.mozilla.cloudflare-dns.com
+104.16.156.186
+104.16.157.186
+104.16.158.186
+104.16.159.186
+104.16.160.186
+
+# opera.cloudflare-dns.com
+104.18.14.23
+104.18.15.23
+
+# tor.cloudflare-dns.com
+104.19.191.54
+104.19.208.54
 
 
 ## Google Public DNS
