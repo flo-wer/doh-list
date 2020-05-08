@@ -1,6 +1,6 @@
 # List of DNS over HTTPS Servers - Domains
 # License: MIT
-# Updated: 2020-02-12T04:00:00Z
+# Updated: 2020-05-08T20:00:00Z
 # More info: https://github.com/flo-wer/doh-list/
 
 ## Canary
@@ -48,6 +48,8 @@ dns64.dns.google
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
+dns11.quad9.net
+dns12.quad9.net
 
 
 ## NextDNS.io
@@ -63,6 +65,9 @@ trr.dns.nextdns.io
 
 ## CleanBrowsing
 doh.cleanbrowsing.org
+adult-filter-dns.cleanbrowsing.org
+family-filter-dns.cleanbrowsing.org
+security-filter-dns.cleanbrowsing.org
 
 
 ## Digitale Gesellschaft Schweiz
@@ -77,6 +82,18 @@ dns.adguard.com
 
 ## Cisco OpenDNS
 doh.opendns.com
+doh.familyshield.opendns.com
+
+
+## Comcast
+doh.xfinity.com
+dot.xfinity.com
+
+
+## DNS.SB
+doh.dns.sb
+public-dns-a.dns.sb
+public-dns-b.dns.sb
 
 
 ## Other

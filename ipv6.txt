@@ -1,6 +1,6 @@
 # List of DNS over HTTPS Servers - IPv6
 # License: MIT
-# Updated: 2020-02-12T04:00:00Z
+# Updated: 2020-05-08T20:00:00Z
 # More info: https://github.com/flo-wer/doh-list/
 
 ## Cloudflare
@@ -89,8 +89,17 @@
 
 
 ## CleanBrowsing
+# family-filter-dns.cleanbrowsing.org
 2a0d:2a00:1::
 2a0d:2a00:2::
+
+# adult-filter-dns.cleanbrowsing.org
+2a0d:2a00:1::1
+2a0d:2a00:2::1
+
+# security-filter-dns.cleanbrowsing.org
+2a0d:2a00:1::2
+2a0d:2a00:2::2
 
 
 ## Digitale Gesellschaft Schweiz
@@ -99,11 +108,24 @@
 
 
 ## AdGuard
+# dns.adguard.com
+2a00:5a60::ad1:ff
+2a00:5a60::ad2:ff
 
 
 ## Cisco OpenDNS
+2620:0:ccc::2
+2620:0:ccd::2
+
 # doh.opendns.com
 2620:119:fc::2
+2620:119:35::35
+2620:119:53::53
+
+# doh.familyshield.opendns.com
+2620:119:fc::3
+2620:119:35::123
+2620:119:53::123
 
 
 ## CIRA Canadian Shield
@@ -115,3 +137,22 @@
 
 2620:10A:80BB::30
 2620:10A:80BC::30
+
+
+## Comcast
+2001:558:feed::1
+2001:558:feed::2
+
+# doh.xfinity.com
+2001:558:fe21:6b:96:113:151:147
+2001:558:fe21:6b:96:113:151:148
+2001:558:fe21:6b:96:113:151:149
+2001:558:fe21:6b:96:113:151:150
+
+# dot.xfinity.com
+2001:558:fe21:6b:96:113:151:145
+
+
+## DNS.SB
+2a09::
+2a09::1
